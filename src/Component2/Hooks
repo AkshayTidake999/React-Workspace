@@ -1,0 +1,8 @@
+
+
+ 
+With the help of Hooks we can Use Class Component Feature in functional Component
+such as state , life cycle , pure component etc
+In functional Component not an all Predefined feature
+
+we can not use hooks in class component

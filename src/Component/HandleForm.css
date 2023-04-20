@@ -1,0 +1,16 @@
+form{
+    text-align: center;
+}
+.username{
+    margin: 20px 0px;
+    height: 20px;
+    width: 300px;
+    text-align: center;
+}
+select{
+    margin-bottom: 20px;
+}
+
+button{
+    margin-top: 20px;
+}

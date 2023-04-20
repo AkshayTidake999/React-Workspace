@@ -1,0 +1,16 @@
+input{
+    margin-left: 610px;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+button{
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 30px;
+    font-size: 20px;
+}
